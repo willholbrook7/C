@@ -1,0 +1,21 @@
+For your assessed work you will need to develop a program in C that helps santa and his elves!  
+
+You'll want to read the problem set very carefully for the specification!
+
+Although it might seem intimidating, there are definitely 'steps' in difficulty throughout, 
+and once you have one feature done & tested, move onto the next - aim to get as far as you can before week 10.  
+
+Definitely aim to arrive at next week's lab with working code as complete as you're able!
+
+There's lots of help available.  But please - to remind you all - this should be your own, 
+and not group work - it's designed to test your understanding and that's the important thing in the learning process!  
+
+We will be running plagiarism detection software as part of the two stage submission process!
+
+
+The best preparation is the previous week's tasks, which introduces many of the same logical patterns and functions you'll need. 
+
+The more sections of this you complete, the more you'll be able to answer, 
+but you should be able to pass with good course knowledge and the key program elements.  
+
+So don't panic!
